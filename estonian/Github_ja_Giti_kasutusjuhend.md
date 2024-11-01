@@ -32,6 +32,7 @@ Enne kui saad oma hoidla muuta ja sinna faile lisada pead sa selle hoidla endale
 git clone https://github.com/**Sinu kasutaja nimi**/**Hoidla nimi**.git
 ```
 Linki on võimalik kopeerida vajutades nuppu `<> Code`
+
 ![img.png](img.png)
 
 # Git-i kasutamine
